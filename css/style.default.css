@@ -1429,6 +1429,7 @@ STYLE SWITCHER FOR DEMO
  * 3. TYPE
  */
 body {
+  /* font-family: "Roboto", sans-serif; */
   font-family: "Noto Sans KR", sans-serif;
   font-size: 1rem;
   font-weight: 400;
@@ -1460,7 +1461,8 @@ h6,
 .h5,
 .h6 {
   margin-bottom: 0.5rem;
-  font-family: "Roboto Slab", serif;
+  /* font-family: "Roboto Slab", serif; */
+  font-family: "Noto Sans KR", serif;
   font-weight: 700;
   line-height: 1.2;
   color: inherit;
